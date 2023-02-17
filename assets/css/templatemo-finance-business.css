@@ -46,7 +46,7 @@ a.filled-button {
 
 a.filled-button:hover {
 	background-color: #fff;
-	color: #a4c639;
+	color: #1e4bd4;
 }
 
 a.border-button {
@@ -64,7 +64,7 @@ a.border-button {
 
 a.border-button:hover {
 	background-color: #fff;
-	color: #a4c639;
+	color: #1e4bd4;
 }
 
 .section-heading {
@@ -80,7 +80,7 @@ a.border-button:hover {
 
 .section-heading em {
 	font-style: normal;
-	color: #a4c639;
+	color: #1e4bd4;
 }
 
 .section-heading span {
@@ -94,7 +94,7 @@ a.border-button:hover {
 
 #preloader {
   overflow: hidden;
-  background: #a4c639;
+  background: #1e4bd4;
   left: 0;
   right: 0;
   top: 0;
